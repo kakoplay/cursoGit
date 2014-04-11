@@ -3,6 +3,8 @@ Ejemplo de conflicto
 Este archivo es un texto para probar la resolucion
 de conflictos en archivo.
 
+"Cambio para resolucion de conflictos"
+
 Se engloba dentro del curso de GIT de la univeridad de granada.
 
 FIN
