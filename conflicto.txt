@@ -1,17 +1,2 @@
-Ejemplo de conflicto
-
-Este archivo es un texto para probar la resolucion
-de conflictos en archivo.
-
-
-AQUI OTRO CAMBIO !!!!
-
-"Cambio para resolucion de conflictos"
-
-
-FINALMENTE LO DEJO ASI PARA QUE SE VEA EL CASO DE CONFLICTO !!!!
-
-
-Se engloba dentro del curso de GIT de la univeridad de granada.
-
+Usando para TRAVIS
 FIN
