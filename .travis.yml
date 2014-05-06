@@ -1,7 +1,6 @@
 branches:
   except:
     - gh-pages
-    - rama01
     - metarama 
 language: C
 complier:
