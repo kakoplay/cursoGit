@@ -1,6 +1,5 @@
 Hola,
 
-texto validación ortográfica. 
-texto validacion ortografica.
+texto validación ortográfica.
 
 Fin
